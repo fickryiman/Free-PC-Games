@@ -77,8 +77,13 @@ a:hover {
   text-transform: uppercase;
 }
 
+.more-header-text {
+  font-size: 0.5rem;
+}
+
 .header-text {
   font-weight: 600;
+  font-size: 0.7rem;
 }
 
 .header-text:hover {
@@ -295,6 +300,14 @@ a:hover {
 
   header svg {
     font-size: 1.8rem;
+  }
+
+  .more-header-text {
+    font-size: 1rem;
+  }
+
+  .header-text {
+    font-size: 1.2rem;
   }
 
   .loader {

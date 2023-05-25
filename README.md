@@ -51,12 +51,23 @@ I would like to follow with these design guidelines, including:
 - Colors
 - Typography: font face, size and weight
 - Layout: composition and space between elements
-- 
+
 <p align="center">
   <img src="./public/metrics_app.png" alt="Free-PC-Games" width="700px" />
 </p>
 
 original design idea by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+
+And here is my design for this project:
+Desktop Version:
+<p align="center">
+  <img src="./public/desktop-version.png" alt="Free-PC-Games" width="700px" />
+</p>
+
+Mobile Version:
+<p align="center">
+  <img src="./public/mpbile-version.png" alt="Free-PC-Games" width="700px" />
+</p>
 
 ### Projects list
 I will making "Free-PC-Games" use of React, Redux and consume API data from [Free To Game](https://www.freetogame.com/)
@@ -196,7 +207,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd bookstore-cms
+  cd Free-PC-Games
   git git@github.com:fickryiman/Free-PC-Games.git
 ```
 
@@ -206,7 +217,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd bookstore-cms
+  cd Free-PC-Games
   npm install
 ```
 
