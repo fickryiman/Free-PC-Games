@@ -15,7 +15,7 @@ const Navbar = () => {
       >
         <IoChevronBackSharp />
       </div>
-      <h6>
+      <h6 className="more-header-text">
         <Link className="logo flex" to="/aboutme">
           About Me
         </Link>
@@ -26,7 +26,7 @@ const Navbar = () => {
           &nbsp;&nbsp;Free-To-Play Games PC
         </Link>
       </p>
-      <h6>
+      <h6 className="more-header-text">
         <Link className="logo flex" to="/references">
           References
         </Link>
