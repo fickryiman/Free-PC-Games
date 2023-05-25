@@ -152,7 +152,7 @@ a:hover {
 }
 
 .card {
-  background: #fff;
+  background: #32383e;
   width: 24em;
   border-radius: 0.2em;
   margin: 1em;
@@ -173,7 +173,7 @@ a:hover {
 }
 
 .card h2 {
-  color: #222;
+  color: #ffffff;
   margin-top: -0.2em;
   line-height: 1.4;
   font-size: 1.3em;
@@ -183,20 +183,32 @@ a:hover {
 }
 
 .card p {
-  color: #777;
+  color: #7ad4e4;
 }
 
 .card h5 {
-  color: #bbb;
+  color: #ffee04;
   font-weight: 700;
-  font-size: 0.7em;
-  letter-spacing: 0.04em;
+  font-size: 0.6em;
+  letter-spacing: 0.1em;
   margin: 1.4em 0 0 0;
   text-transform: uppercase;
+  border-radius: 0.3rem;
 }
 
 .card-body {
   padding: 1.2em;
+}
+
+.game-descriptions {
+  margin: 2% 0 6%;
+}
+
+.game-genre {
+  background-color: #717679;
+  padding: 1% 2.5%;
+  width: fit-content;
+  text-align: center;
 }
 
 .header-game {

@@ -9,22 +9,22 @@ const Game = ({
       <img src={thumbnail} alt="game pictures" />
       <div className="card-body">
         {name.length > 27 ? (
-          <h2>
+          <h2 className="game-name">
             {name.substring(0, 27)}
             ...
           </h2>
         ) : (
-          <h2>{name}</h2>
+          <h2 className="game-name">{name}</h2>
         )}
         {desc.length > 70 ? (
-          <p>
+          <p className="game-descriptions">
             {desc.substring(0, 65)}
             ...
           </p>
         ) : (
-          <p>{desc}</p>
+          <p className="game-descriptions">{desc}</p>
         )}
-        <h5>{genre}</h5>
+        <h5 className="game-genre">{genre}</h5>
       </div>
     </div>
   </div>
