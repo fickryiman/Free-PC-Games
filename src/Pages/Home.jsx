@@ -32,7 +32,7 @@ const Home = () => {
     if (searchGame === '') {
       return game;
     }
-    if (game.name.toLowerCase().includes(searchGame.toLocaleLowerCase())) {
+    if (game.title.toLowerCase().includes(searchGame.toLocaleLowerCase())) {
       return game;
     }
     return null;
