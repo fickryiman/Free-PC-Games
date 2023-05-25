@@ -1,11 +1,19 @@
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 
-const url = 'GET https://www.freetogame.com/api/games?platform=pc';
+const url = 'https://free-to-play-games-database.p.rapidapi.com/api/games?platform=pc';
+
+const options = {
+  method: 'GET',
+  headers: {
+    'X-RapidAPI-Key': '8599077a4emsh479efd2103792b1p1a37d1jsn1b71b1b00798',
+    'X-RapidAPI-Host': 'free-to-play-games-database.p.rapidapi.com',
+  },
+};
 
 export const fetchGames = createAsyncThunk('fetch-games', async () => {
-  const response = await fetch(url);
-  const data = await response.json();
-  return data;
+  const response = await fetch(url, options);
+  const result = await response.json();
+  return result;
 });
 
 const initialState = {

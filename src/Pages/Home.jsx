@@ -43,7 +43,7 @@ const Home = () => {
     if (filteredGames.length === 0) {
       return (
         <div className="error-message">
-          <p>No match found...</p>
+          <p>No Games found...</p>
         </div>
       );
     }
@@ -60,11 +60,11 @@ const Home = () => {
           thumbnail={game.thumbnail}
           name={game.title}
           desc={game.short_description}
-          url={game.game_url}
           genre={game.genre}
-          publisher={game.publisher}
-          developer={game.developer}
-          release={game.release_date}
+          // url={game.game_url}
+          // publisher={game.publisher}
+          // developer={game.developer}
+          // release={game.release_date}
         />
       </div>
     ));
@@ -80,12 +80,12 @@ const Home = () => {
             <input
               type="text"
               onChange={(e) => setSearchGame(e.target.value)}
-              placeholder="Search a game..."
+              placeholder="search your games..."
               className="search-input"
               value={searchGame}
             />
           </div>
-          <div className="coins-container flex limit">{checkQuery()}</div>
+          <div className="games-container flex limit">{checkQuery()}</div>
         </>
       )}
     </div>
