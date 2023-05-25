@@ -66,7 +66,7 @@ Desktop Version:
 
 Mobile Version:
 <p align="center">
-  <img src="./public/mpbile-version.png" alt="Free-PC-Games" width="700px" />
+  <img src="./public/mobile-version.png" alt="Free-PC-Games" width="700px" />
 </p>
 
 ### Projects list
