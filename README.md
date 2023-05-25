@@ -1,5 +1,5 @@
 # Free-PC-Games
-Free-PC-Games is a Single Page Application that shows the current trending free games for the PC Platform (data source is taken from FreeToGame API); This application retrieves game data and displays it to the user for informative purposes in a well-structured and interactive UI.
+Free-PC-Games is a Single Page Application that shows the current trending free games for the PC Platform (data source is taken from FreeToGame API); This application retrieves games data and displays it to the user for informative purposes in a well-structured and interactive UI.
 
 
 <h1>Free-PC-Games</h1>
@@ -37,7 +37,7 @@ Free-PC-Games is a Single Page Application that shows the current trending free 
 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Free-PC-Games<a name="about-project"></a>
-> Free-PC-Games is a Single Page Application that shows the current trending free games for the PC Platform (data source is taken from FreeToGame API); This application retrieves game data and displays it to the user for informative purposes in a well-structured and interactive UI.
+> Free-PC-Games is a Single Page Application that shows the current trending free games for the PC Platform (data source is taken from FreeToGame API); This application retrieves games data and displays it to the user for informative purposes in a well-structured and interactive UI.
 
 <!-- > Describe your project in 1 or 2 sentences. -->
 ### How to build the "Free-PC-Games" application?
