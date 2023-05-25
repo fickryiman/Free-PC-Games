@@ -94,6 +94,7 @@ Install [React Router V6](https://reactrouter.com/en/main/start/tutorial#setup)
 [Setup router](https://reactrouter.com/en/main/start/tutorial#adding-a-router) inside of <App>
 Add 3 routes in this application, each should render a pages components:
  - /
+ - /game details
  - /about me
  - /references
 
