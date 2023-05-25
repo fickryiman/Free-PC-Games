@@ -18,7 +18,7 @@ const Game = ({
         )}
         {desc.length > 70 ? (
           <p>
-            {desc.substring(0, 70)}
+            {desc.substring(0, 65)}
             ...
           </p>
         ) : (

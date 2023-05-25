@@ -56,10 +56,10 @@ I would like to follow with these design guidelines, including:
   <img src="./public/metrics_app.png" alt="Free-PC-Games" width="700px" />
 </p>
 
-original design idea by ![Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
+original design idea by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 ### Projects list
-I will making "Free-PC-Games" use of React, Redux and consume API data from ![Free To Game](https://www.freetogame.com/)
+I will making "Free-PC-Games" use of React, Redux and consume API data from [Free To Game](https://www.freetogame.com/)
 
 I will breakdown the projects that will guide me through the small steps each days. here the details about each of the work steps in the upcoming week.
 
@@ -300,9 +300,9 @@ Credits and Thanks to:
 - Allah for the everythings, Alhamdulillah.
 - My Families for all of the supports.
 - Microverse for all of the experiences, lessons, projects.
-- ![Nelson Sakwa](https://www.behance.net/sakwadesignstudio/) for the website template design that inspired.
-- ![FreeToGame](https://www.freetogame.com/) for the games data and other important informations.
-- ![Flaticon](https://www.flaticon.com/) for the icons.
+- [Nelson Sakwa](https://www.behance.net/sakwadesignstudio/) for the website template design that inspired.
+- [FreeToGame](https://www.freetogame.com/) for the games data and other important informations.
+- [React Icons](https://www.npmjs.com/package/react-icons) for the icons.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

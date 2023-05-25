@@ -61,10 +61,6 @@ const Home = () => {
           name={game.title}
           desc={game.short_description}
           genre={game.genre}
-          // url={game.game_url}
-          // publisher={game.publisher}
-          // developer={game.developer}
-          // release={game.release_date}
         />
       </div>
     ));

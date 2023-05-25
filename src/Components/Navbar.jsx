@@ -15,12 +15,22 @@ const Navbar = () => {
       >
         <IoChevronBackSharp />
       </div>
+      <h6>
+        <Link className="logo flex" to="/aboutme">
+          About Me
+        </Link>
+      </h6>
       <p className="header-text">
         <Link className="logo flex" to="/">
           <img src={`${icon}`} alt="application logo" />
           &nbsp;&nbsp;Free-To-Play Games PC
         </Link>
       </p>
+      <h6>
+        <Link className="logo flex" to="/references">
+          References
+        </Link>
+      </h6>
       <p className="setting-icon header-icon">
         <CiSettings />
       </p>
