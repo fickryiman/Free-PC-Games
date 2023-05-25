@@ -125,10 +125,11 @@ a:hover {
   padding: 0.8rem 1.2rem;
   background-color: rgb(255, 255, 255);
   border: none;
+
   /* border-radius: 2rem; */
   margin-bottom: 2rem;
   margin-inline: auto;
-  color: #000000;
+  color: #000;
   outline: #fff !important;
 }
 
@@ -287,21 +288,17 @@ a:hover {
     flex-wrap: wrap;
   }
 
-  .details-container {
-    padding-inline: 4%;
-  }
-
   .details-image {
     width: 32% !important;
     height: max-content;
   }
-  
+
   .screenshots {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
-  
+
   .screenshots-image {
     width: 32%;
   }
@@ -309,20 +306,21 @@ a:hover {
   .details-description {
     width: 100%;
   }
-  
+
   .details-container {
+    padding-inline: 4%;
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-  
+
   .details-list-item {
     margin-bottom: 3%;
     list-style-type: none;
     letter-spacing: 0.05rem;
     text-align: center;
   }
-  
+
   .details-container > ul > li:nth-child(6) > h2 {
     font-size: 1.5rem;
   }
