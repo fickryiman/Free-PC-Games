@@ -296,7 +296,13 @@ If you like this project please follow me on my GitHub: [@fickryiman](https://gi
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 <!-- > Give credit to everyone who inspired your codebase. -->
-First thing first, I would like to say Alhamdulillah, Thanks to my Families, Microverse and Micronaut's, Reviewer's, Thank you for all of the experiences, lesson and everythings.
+Credits and Thanks to:
+- Allah for the everythings, Alhamdulillah.
+- My Families for all of the supports.
+- Microverse for all of the experiences, lessons, projects.
+- ![Nelson Sakwa](https://www.behance.net/sakwadesignstudio/) for the website template design that inspired.
+- ![FreeToGame](https://www.freetogame.com/) for the games data and other important informations.
+- ![Flaticon](https://www.flaticon.com/) for the icons.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
