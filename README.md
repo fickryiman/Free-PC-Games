@@ -66,7 +66,7 @@ Desktop Version:
 
 Mobile Version:
 <p align="center">
-  <img src="./public/mpbile-version.png" alt="Free-PC-Games" width="700px" />
+  <img src="./public/mobile-version.png" alt="Free-PC-Games" width="700px" />
 </p>
 
 ### Projects list
@@ -94,6 +94,7 @@ Install [React Router V6](https://reactrouter.com/en/main/start/tutorial#setup)
 [Setup router](https://reactrouter.com/en/main/start/tutorial#adding-a-router) inside of <App>
 Add 3 routes in this application, each should render a pages components:
  - /
+ - /game details
  - /about me
  - /references
 
@@ -183,7 +184,7 @@ Create components inside of the /components directory:
 ## 🚀 Live Demo <a name=""></a>
 
 <!-- > Add a link to your deployed project. -->
-- Click the following url for [... Live Demo ...]()
+- Click the following url for [... Live Demo ...](https://free-pc-games.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
