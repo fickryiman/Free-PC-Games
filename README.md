@@ -189,7 +189,7 @@ Create components inside of the /components directory:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Live Preview
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/d51acfe30a5748d3a444a81b6bbd5e86-with-play.gif)](https://www.loom.com/embed/d51acfe30a5748d3a444a81b6bbd5e86)
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/7ad978a0fbca41acb568dd537ed9b344-with-play.gif)](https://www.loom.com/embed/7ad978a0fbca41acb568dd537ed9b344)
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
