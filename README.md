@@ -1,7 +1,6 @@
 # Free-PC-Games
 Free-PC-Games is a Single Page Application that shows the current trending free games for the PC Platform (data source is taken from FreeToGame API); This application retrieves games data and displays it to the user for informative purposes in a well-structured and interactive UI.
 
-
 <h1>Free-PC-Games</h1>
 
 <!-- TABLE OF CONTENTS -->
@@ -21,6 +20,7 @@ Free-PC-Games is a Single Page Application that shows the current trending free 
     - [Tools i have used for this project ](#tools-i-have-used-for-this-project-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+    - [Live Preview](#live-preview)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -187,6 +187,9 @@ Create components inside of the /components directory:
 - Click the following url for [... Live Demo ...](https://free-pc-games.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Preview
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/79ba5c7cbecd49a18c746fbf63d735d2-with-play.gif)](https://www.loom.com/embed/79ba5c7cbecd49a18c746fbf63d735d2)
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
